@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GmailNotifier</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="notification_channel_name">Gmail Notifications</string>
+    <string name="notification_channel_description">Notifications for new Gmail messages</string>
+</resources>
